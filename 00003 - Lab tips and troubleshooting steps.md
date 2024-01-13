@@ -1,4 +1,4 @@
-<img src="file:///home/jensy/Pictures/Screenshot%20from%202024-01-13%2018-24-16.png" title="" alt="" data-align="right">
+<img title="" src="file:///home/jensy/Pictures/Screenshot%20from%202024-01-13%2018-24-16.png" alt="" data-align="right">
 
 # Lab tips and troubleshooting steps
 
