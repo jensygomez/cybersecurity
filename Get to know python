@@ -1,1 +1,10 @@
+In this reading, you will explore how programming works, how a computer processes the Python programming language, and how Python is used in cybersecurity.
+
+How programming works 
+Programming is a process that can be used to create a specific set of instructions for a computer to execute tasks. Computer programs exist everywhere. Computers, cell phones, and many other electronic devices are all given instructions by computer programs. 
+
+There are multiple programming languages used to create computer programs. Python is one of these. Programming languages are converted to binary numbers, which are a series of 0s and 1s that represent the operations that the computer's central processing unit (CPU) should perform. Each instruction corresponds to a specific operation, such as adding two numbers or loading a value from memory. 
+
+It would be very time-consuming for humans to communicate this way. Programming languages like Python make it easier to write code because you can use less syntax when instructing computers to perform complex processes.
+
 
