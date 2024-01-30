@@ -19,8 +19,7 @@ Throughout the exercises, we delved into fundamental programming concepts in Pyt
 
 
 <p align="center">
-<img align="center" alt="error" height="80" width="80" src="">
-  <img src="https://github.com/jensygomez/cybersecurity/blob/main/005%20-%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Coursera%20VDJWTSKBB5J5_page-0001.jpg" alt="Mistake" />
+<img align="center" alt="error" height="425" width="550" src="https://github.com/jensygomez/cybersecurity/blob/main/005%20-%20Assets%2C%20Threats%2C%20and%20Vulnerabilities/Certificado_Assest_Treats_Vulnerabilities.jpg"alt="Mistake" >
    
 </p>
 
