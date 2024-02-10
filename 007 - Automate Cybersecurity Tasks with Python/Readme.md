@@ -1,18 +1,28 @@
+## Summary of the Cybersecurity Task Automation with Python Course
 
-## Resumen del Curso de Automatización de Tareas de Ciberseguridad con Python
+This course gave me a solid foundation in using Python to automate cybersecurity-related tasks. Throughout the course, we explore various techniques for working with files and address effective code debugging strategies. The main points of the course include:
 
-Este curso proporciona una sólida base en el uso de Python para automatizar tareas relacionadas con la ciberseguridad. A lo largo del curso, se exploran diversas técnicas para trabajar con archivos y se abordan estrategias efectivas de depuración de código. Los principales puntos del curso incluyen:
+### Learning Python for Cybersecurity Task Automation
 
-### Aprendizaje de Python para Automatización de Tareas de Ciberseguridad
+In this course, we dive into the world of cybersecurity and how Python can be used to automate a variety of related tasks. From opening and reading files to manipulating and analyzing their content, we acquire the skills necessary to efficiently address security challenges.
 
-En este curso, nos sumergimos en el mundo de la ciberseguridad y cómo Python puede ser utilizado para automatizar una variedad de tareas relacionadas. Desde la apertura y lectura de archivos hasta la manipulación y análisis de su contenido, adquirimos las habilidades necesarias para abordar desafíos de seguridad de manera eficiente.
+### File Manipulation with Python
 
-### Manipulación de Archivos con Python
+We learned how to open and read files using Python, which allows us to access information stored in different file formats. Additionally, we explore techniques for analyzing and structuring file content, giving us a deeper understanding of the data we work with.
 
-Aprendemos a abrir y leer archivos utilizando Python, lo que nos permite acceder a la información almacenada en diferentes formatos de archivo. Además, exploramos técnicas para analizar y estructurar el contenido de los archivos, lo que nos brinda una comprensión más profunda de los datos con los que trabajamos.
+### Effective Code Debugging
 
-### Depuración Efectiva de Código
+A fundamental part of the development process is code debugging. Through hands-on exercises, we hone our skills in identifying and fixing errors in our Python code, allowing us to write more robust and reliable programs.
 
-Una parte fundamental del proceso de desarrollo es la depuración de código. A través de ejercicios prácticos, perfeccionamos nuestras habilidades para identificar y corregir errores en nuestro código Python, lo que nos permite escribir programas más robustos y confiables.
+By completing this course, we have not only improved our Python skills, but we have also acquired the necessary tools to effectively address security challenges in real-world environments.
 
-Al completar este curso, no solo hemos mejorado nuestras habilidades en Python, sino que también hemos adquirido las herramientas necesarias para abordar desafíos de seguridad de manera efectiva en entornos del mundo real.
+ <!-- My skills -->
+<br>
+<h1>Tools I use in my day-to-day</h1>
+<p align="center">
+
+  <img align="center" alt="error" height="400" width="400" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/010_Automate_Cybersecurity_Tasks_with_Python.jpg">  
+
+  
+</p>
+<br>
