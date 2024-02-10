@@ -21,7 +21,7 @@ By completing this course, we have not only improved our Python skills, but we h
 <h1>Tools I use in my day-to-day</h1>
 <p align="center">
 
-  <img align="center" alt="error" height="400" width="400" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/010_Automate_Cybersecurity_Tasks_with_Python.jpg">  
+  <img align="center" alt="error" height="338" width="438" src="https://github.com/jensygomez/jensygomez/blob/main/Imagens/010_Automate_Cybersecurity_Tasks_with_Python.jpg">  
 
   
 </p>
