@@ -62,3 +62,4 @@ Responsible: IT Department.
 Regular security audits are recommended to maintain system integrity.
 
 Security Officer's Signature: John Smith
+
